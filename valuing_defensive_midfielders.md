@@ -1,7 +1,7 @@
 ---
 title: "On Valuing Defensive Midfielders"
 author: "znstrider"
-date: "Novermber 14, 2022"
+date: "November 14, 2022"
 format:
     html:
         code-fold: true
