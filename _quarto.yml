@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+        - section: "Various"
+          contents:
+            - valuing_defensive_midfielders.md      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
