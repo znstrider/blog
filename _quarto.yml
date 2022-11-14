@@ -5,8 +5,9 @@ website:
   title: "Blog"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: https://znstrider.github.io
+        text: znstrider.github.io
+
   sidebar:
     style: "docked"
     search: true
@@ -20,6 +21,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
